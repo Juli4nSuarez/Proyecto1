@@ -1,0 +1,33 @@
+#background {
+  background-image: url('https://tse1.mm.bing.net/th?id=OIP.BE1qIeKS_qje4x3eUpV5PgHaEK&pid=Api&P=0&h=180');
+}
+
+#bag1 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url('/images/bgIg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#bag2 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url('/images/bgFc.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#bag3 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url('/images/bgTt.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

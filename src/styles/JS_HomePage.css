@@ -1,0 +1,14 @@
+
+#background {
+    background-image: url('/images/makeupBackground.png') !important; 
+    background-repeat: no-repeat !important;
+    background-size: cover !important ;
+    background-position: center !important;
+    width: 100% !important;
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+#text {
+    color:#FF008B !important
+}

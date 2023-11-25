@@ -1,0 +1,29 @@
+#actor1 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/actor1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#actor2 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/actor2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#actor3 {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/actor3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

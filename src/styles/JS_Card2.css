@@ -1,0 +1,20 @@
+#pestanas {
+  background-image: url("/images/pestanas.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pintaunas{
+  background-image: url("/images/pintaunas.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#brochas {
+  background-image: url("/images/brochas.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

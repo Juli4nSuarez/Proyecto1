@@ -1,0 +1,59 @@
+#pintaLabios {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/pintalabios.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#correctores {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/correctores.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#rubores {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/rubores.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#sombra {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/sombra.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#delineadores {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/delineadores.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#mascarillas {
+  width: 80%;
+  height: 300px;
+  border-radius: 21px 21px 0 0;
+  background-image: url("/images/mascarillas.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
